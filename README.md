@@ -1,0 +1,1 @@
+# cpi-registry-config
